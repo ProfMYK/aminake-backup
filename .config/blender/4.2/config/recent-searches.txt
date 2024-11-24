@@ -1,0 +1,17 @@
+Texture ▸ Noise Texture
+Mesh ▸ Read ▸ Edge Vertices
+Generate ▸ Solidify
+Shader ▸ Emission
+Shader ▸ Glass BSDF
+Converter ▸ Mix
+Shader ▸ Mix Shader
+Converter ▸ Blackbody
+Input ▸ Value
+Edge (Ctrl E) ▸ Bridge Edge Loops
+Generate ▸ Bevel
+Generate ▸ Array
+Object ▸ Rigid Body ▸ Copy from Active
+Generate ▸ Subdivision Surface
+Deform ▸ Curve
+Vertex (Ctrl V) ▸ Hooks (Ctrl H) ▸ Hook to New Object
+Group

@@ -1,0 +1,10 @@
+[Bookmarks]
+[Recent]
+/home/fortran/render3/
+/home/fortran/render2/
+/home/fortran/Render/
+!Home
+/home/fortran/
+/home/fortran/Downloads/
+/home/fortran/cahces/blender_htHFlM/cache_fluid_4b85f272/
+/home/fortran/Textures/TerrazzoSlab028/
